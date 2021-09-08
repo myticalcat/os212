@@ -16,6 +16,7 @@ ZCZC W00 100 L02 ZOOM meetings
 ZCZC W00 30 L02 ZOOM meetings
 ZCZC W00 100 L02 ZOOM meetings
 ZCZC W00 20 L30 Udacity Visual Metaphor
-ZCZC W01 60 L01 ZOOM meeting
+ZCZC W01 90 L01 ZOOM meeting
 ZCZC W01 30 L11 Downloading and Installing VirtualBox, PUTTY and WINSCP
 ZCZC W01 60 L12 Installing & running VirtualBox Debian Guest
+ZCZC W01 60 L06 Reviewing stuff
