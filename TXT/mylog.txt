@@ -16,3 +16,5 @@ ZCZC W00 100 L02 ZOOM meetings
 ZCZC W00 30 L02 ZOOM meetings
 ZCZC W00 100 L02 ZOOM meetings
 ZCZC W00 20 L30 Udacity Visual Metaphor
+ZCZC W01 60 L01 ZOOM meeting
+ZCZC W00 20 L10 Downloading and Installing VirtualBox, PUTTY and WINSCP
