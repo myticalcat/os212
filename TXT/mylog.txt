@@ -1,25 +1,30 @@
  Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L03 GitHub Related
-ZCZC W00 10 L01 SCELE/Discord related
+ZCZC W00  10 L03 GitHub Related
+ZCZC W00  10 L01 SCELE/Discord related
 ZCZC W00 120 L84 Sleep
-ZCZC W00 60 L73 Finishing Arknights Event & Farming
-ZCZC W00 30 L82 Reading The Stranger
-ZCZC W00 30 L86 Cleanin' da House
-ZCZC W00 60 L70 Mobdev Stuff
-ZCZC W00 10 L10 Assignment #00
-ZCZC W00 10 L11 Assignment #01
-ZCZC W00 10 L12 Assignment #02
-ZCZC W00 10 L13 Assignment #03
+ZCZC W00  60 L73 Finishing Arknights Event & Farming
+ZCZC W00  30 L82 Reading The Stranger
+ZCZC W00  30 L86 Cleanin' da House
+ZCZC W00  60 L70 Mobdev Stuff
+ZCZC W00  10 L10 Assignment #00
+ZCZC W00  10 L11 Assignment #01
+ZCZC W00  10 L12 Assignment #02
+ZCZC W00  10 L13 Assignment #03
 ZCZC W00 100 L02 ZOOM meetings
-ZCZC W00 30 L02 ZOOM meetings
+ZCZC W00  30 L02 ZOOM meetings
 ZCZC W00 100 L02 ZOOM meetings
-ZCZC W00 20 L30 Udacity Visual Metaphor
-ZCZC W01 90 L01 ZOOM meeting
-ZCZC W01 30 L11 Downloading and Installing VirtualBox, PUTTY and WINSCP
-ZCZC W01 60 L12 Installing & running VirtualBox Debian Guest
-ZCZC W01 60 L06 Reviewing stuff
+ZCZC W00  20 L30 Udacity Visual Metaphor
+ZCZC W01  90 L01 ZOOM meeting
+ZCZC W01  30 L11 Downloading and Installing VirtualBox, PUTTY and WINSCP
+ZCZC W01  60 L12 Installing & running VirtualBox Debian Guest
+ZCZC W01  60 L06 Reviewing stuffs
 ZCZC W01 180 L13 GSGSGSGSGSGS
 ZCZC W01 180 L13 Watching and reading and debugging
-ZCZC W01 60 L73 Me and the Bois beating The Ender 
+ZCZC W01  60 L73 Me and the Bois beating The Ender 
+ZCZC W01 120 L71 Doing some illustrations
+ZCZC W01  30 L14 Copypasta some commands
+ZCZC W01 120 L15 Few restarts, getting used to linux
+ZCZC W01  60 L13 Reviewing some stuffs again
+ZCZC W01  10 L83 I Catz haz cheezburgers
