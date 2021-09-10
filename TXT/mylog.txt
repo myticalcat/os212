@@ -22,3 +22,4 @@ ZCZC W01 60 L12 Installing & running VirtualBox Debian Guest
 ZCZC W01 60 L06 Reviewing stuff
 ZCZC W01 180 L13 GSGSGSGSGSGS
 ZCZC W01 180 L13 Watching and reading and debugging
+ZCZC W01 60 L73 Me and the Bois beating The Ender 
