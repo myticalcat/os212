@@ -7,6 +7,6 @@ In the meantime, you can visit my collection of links for this course and my log
 -mytcat
 
 ### Available Pages  
-* [Links]({{ site.baseurl }}/LINKS/)
+* [Links](/LINKS/)
 * [Logs](TXT/mylog.txt)
 * [My GitHub]([pers-gh])
