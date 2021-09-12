@@ -7,6 +7,6 @@ In the meantime, you can visit my collection of links for this course and my log
 -mytcat
 
 ### Available Pages  
-* [Links](/LINKS/)
+* [Links](links.md)
 * [Logs](TXT/mylog.txt)
 * [My GitHub]([pers-gh])
