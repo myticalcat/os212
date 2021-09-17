@@ -12,9 +12,14 @@ Here you can find my collection of links that I found while studying Operating S
     I actually use this website to write this and all the other markdown files on this repo. Thank you dillinger.io, very cool!
 * [Regex Debugger / Visualizer](https://www.debuggex.com/)
     It is self-explanatory. I found this from the videos in the week 01 slide. I used this one to learn and practice regular expression. 
-* [Neso OS Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
-   [Neso C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+* [Neso's OS Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) & [Neso's C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+  Neso Academy helps me going through my PSD in the first semester. They are an excellent learning resource for everyone in the CS course.
+* [TryHackMe](https://tryhackme.com/)
+    Newbie-friendly website to learn cybersecurity. Free to some extent. 
+* [Bug Bounty Resources](https://github.com/daffainfo/AllAboutBugBounty)
+  One of my friends from the ITS (Institut Teknologi ~~Surabaya~~ Sepuluh Nopember Surabaya) runs this repo. I think he’s pretty well-known in the bug bounty scene. It might be helpful for those who are interested in the bug bounty.
 
+    
 
 ## Fun stuff / Other Links
 * [Kitten Rice Bath](https://youtu.be/Q9iWKabmkr4)
