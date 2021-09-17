@@ -39,4 +39,8 @@ ZCZC W02 250 L13 Watching 4 hours videos
 ZCZC W02  10 L14 Generate a GnuPG Key Pair
 ZCZC W02   5 L15 List of all GnuPG Keys
 ZCZC W02  10 L16 Importing ospubkey.txt Key
-ZCZC W02   5 L15 Signing os key
+ZCZC W02   5 L17 Signing os key
+ZCZC W02   5 L18 Exporting mypubkey.txt
+ZCZC W02   5 L19 Updated Links.md with some links
+ZCZC W02  60 L10 Reading chapter 16
+ZCZC W02   5 L09 Writing this
