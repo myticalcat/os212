@@ -33,3 +33,6 @@ ZCZC W01   5 L17 Doing it right now
 ZCZC W01  60 L18 Assignment #08
 ZCZC W01  60 L19 Assignment #09
 ZCZC W01  30 L86 Laundry day
+ZCZC W01  30 L86 Laundry day
+ZCZC W02  30 L86 Laundry day
+ZCZC W02 250 L13 Watching 4 hours videos
