@@ -46,3 +46,4 @@ ZCZC W02  60 L10 Reading chapter 16
 ZCZC W02   5 L09 Writing this
 ZCZC W02  15 L11 Trying C Demo
 ZCZC W02  15 L20 Reviewing neighbors' github page
+ZCZC W02  30 L09 Copying and using myscript.sh to make SHA256SUM and SHA256SUM.asc
