@@ -44,3 +44,5 @@ ZCZC W02   5 L18 Exporting mypubkey.txt
 ZCZC W02   5 L19 Updated Links.md with some links
 ZCZC W02  60 L10 Reading chapter 16
 ZCZC W02   5 L09 Writing this
+ZCZC W02  15 L09 Trying C Demo
+
