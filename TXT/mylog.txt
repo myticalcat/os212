@@ -47,3 +47,11 @@ ZCZC W02   5 L09 Writing this
 ZCZC W02  15 L11 Trying C Demo
 ZCZC W02  15 L20 Reviewing neighbors' github page
 ZCZC W02  30 L09 Copying and using myscript.sh to make SHA256SUM and SHA256SUM.asc
+ZCZC W03   5 L14 Cheking bash asliases
+ZCZC W03  60 L15 Create extra virtual disk, done a - e
+ZCZC W03  10 L16 Updating links
+ZCZC W03  30 L17 Update peer links to the next 10
+ZCZC W03   5 L18 Doing this one
+ZCZC W03   5 L19 Submitting the week 3 assignments
+ZCZC W03  60 L82 Reading some of Emil Cioran's works
+
