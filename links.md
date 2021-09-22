@@ -20,8 +20,8 @@ Here you can find my collection of links that I found while studying Operating S
   One of my friends from the ITS (Institut Teknologi ~~Surabaya~~ Sepuluh Nopember Surabaya) runs this repo. I think he’s pretty well-known in the bug bounty scene. It might be helpful for those who are interested in the bug bounty.
 * [C Pointer lecture UNSW](https://youtu.be/Rxvv9krECNw)
   The title itself is self-explanatory. Pointers can be hard to understand sometimes, but this lecture helps me grasp the concept quite well.
-  
-    
+* [Github and myscript.sh mantra](https://osp4diss.vlsm.org/W03-06.html)  
+  This link is for me than any other, and I could copy and paste the instructions. Insha Allah will not result in any error.
 
 ## Fun stuff / Other Links
 * [Kitten Rice Bath](https://youtu.be/Q9iWKabmkr4)
