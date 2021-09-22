@@ -18,7 +18,9 @@ Here you can find my collection of links that I found while studying Operating S
     Newbie-friendly website to learn cybersecurity. Free to some extent. 
 * [Bug Bounty Resources](https://github.com/daffainfo/AllAboutBugBounty)
   One of my friends from the ITS (Institut Teknologi ~~Surabaya~~ Sepuluh Nopember Surabaya) runs this repo. I think he’s pretty well-known in the bug bounty scene. It might be helpful for those who are interested in the bug bounty.
-
+* [C Pointer lecture UNSW](https://youtu.be/Rxvv9krECNw)
+  The title itself is self-explanatory. Pointers can be hard to understand sometimes, but this lecture helps me grasp the concept quite well.
+  
     
 
 ## Fun stuff / Other Links
