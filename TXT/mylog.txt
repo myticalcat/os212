@@ -54,4 +54,7 @@ ZCZC W03  30 L17 Update peer links to the next 10
 ZCZC W03   5 L18 Doing this one
 ZCZC W03   5 L19 Submitting the week 3 assignments
 ZCZC W03  60 L82 Reading some of Emil Cioran's works
-
+ZCZC W03 180 L02 Class
+ZCZC W03 120 L11 Reading Assignments
+ZCZC W03  60 L12 Trying and understanding the demo
+ZCZC W03  60 L13 Checking out prev years' problems
