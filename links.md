@@ -22,6 +22,11 @@ Here you can find my collection of links that I found while studying Operating S
   The title itself is self-explanatory. Pointers can be hard to understand sometimes, but this lecture helps me grasp the concept quite well.
 * [Github and myscript.sh mantra](https://osp4diss.vlsm.org/W03-06.html)  
   This link is for me than any other, and I could copy and paste the instructions. Insha Allah will not result in any error.
+* [Neso's C pointer lecture playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)
+  The other link is for C programming in general, but this one focuses on the pointer.
+* [Bug Bounty Roadmap](https://cdn.hashnode.com/res/hashnode/image/upload/v1610889439172/wAmw3SEGa.jpeg?auto=compress)
+  We might want to do some cybersec action but don't know where to start. This roadmap will at least give you a little bit of insight into it.
+  
 
 ## Fun stuff / Other Links
 * [Kitten Rice Bath](https://youtu.be/Q9iWKabmkr4)
@@ -29,3 +34,5 @@ Here you can find my collection of links that I found while studying Operating S
 * [How to exit vim](https://youtu.be/w00JOVpapxA)
     So, this is what it felt like being mocked by a meme.
     I was actually stuck on vim at one point and unable to exit it. This was youtube's top recommendation for me. Very cool algoritm from Google.
+* [CBKadal's Rock Music](https://www.youtube.com/watch?v=xtRnXYaDugo&ab_channel=RockShow)
+    yes. go click on it.

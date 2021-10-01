@@ -58,3 +58,15 @@ ZCZC W03 180 L02 Class
 ZCZC W03 120 L11 Reading Assignments
 ZCZC W03  60 L12 Trying and understanding the demo
 ZCZC W03  60 L13 Checking out prev years' problems
+ZCZC W04 100 L11 Reading & watching chapter 9
+ZCZC W04  60 L12 Trying some demos
+ZCZC W04  60 L13 Trying some MidTerm Problems
+ZCZC W04   5 L14 Install Package List 2
+ZCZC W04  30 L15 There's some weird bug with putty, im its all done now
+ZCZC W04  15 L15 Updating the links
+ZCZC W04  30 L16 Reviewing friends' GHP
+ZCZC W04  15 L17 Doing it rn
+ZCZC W04  15 L18 Yep, i will do it rn
+ZCZC W04 180 L02 Class
+ZCZC W04  30 L83 My cats wont eat from me unless i hand feed him fish
+ZCZC W04 300 L85 My father is hospitalized
