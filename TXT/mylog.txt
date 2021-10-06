@@ -70,3 +70,13 @@ ZCZC W04  15 L18 Yep, i will do it rn
 ZCZC W04 180 L02 Class
 ZCZC W04  30 L83 My cats wont eat from me unless i hand feed him fish
 ZCZC W04 300 L85 My father is hospitalized
+ZCZC W05 120 L02 Class
+ZCZC W05  30 L14 Lowest i can go is 185MB
+ZCZC W05  60 L14 Fetching, extracting, modifying and running the assignments
+ZCZC W05  30 L15 Updating links
+ZCZC W05  30 L17 Updating peer links
+ZCZC W05 120 L11 Reading
+ZCZC W05  60 L12 Demo
+ZCZC W05  60 L13 Trying Previous MidTem Problems 
+ZCZC W05  15 L18 Doing it right now
+ZCZC W05   5 L14 Doing it after this one

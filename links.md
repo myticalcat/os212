@@ -26,7 +26,10 @@ Here you can find my collection of links that I found while studying Operating S
   The other link is for C programming in general, but this one focuses on the pointer.
 * [Bug Bounty Roadmap](https://cdn.hashnode.com/res/hashnode/image/upload/v1610889439172/wAmw3SEGa.jpeg?auto=compress)
   We might want to do some cybersec action but don't know where to start. This roadmap will at least give you a little bit of insight into it.
-  
+
+## Video about Operating System Concepts
+* [Chapter 10](https://youtu.be/mduWNA6_BU8)
+  Talking about the virtual memory slides.
 
 ## Fun stuff / Other Links
 * [Kitten Rice Bath](https://youtu.be/Q9iWKabmkr4)
