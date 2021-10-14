@@ -80,3 +80,14 @@ ZCZC W05  60 L12 Demo
 ZCZC W05  60 L13 Trying Previous MidTem Problems 
 ZCZC W05  15 L18 Doing it right now
 ZCZC W05   5 L14 Doing it after this one
+ZCZC W06 120 L11 Reading assignment
+ZCZC W06  60 L12 Trying demo
+ZCZC W06  60 L13 Trying exam
+ZCZC W06  30 L14 Doing the shared memory
+ZCZC W06  30 L15 Updating links with some vids playlist
+ZCZC W06  30 L17 Peers review
+ZCZC W06  15 L18 Doing this rn
+ZCZC W06  15 L19 Will do after this one
+ZCZC W06 120 L02 Zoom class
+ZCZC W06  60 L32 Study from Neso
+ZCZC W06  90 L84 Siesta

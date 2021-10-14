@@ -30,6 +30,8 @@ Here you can find my collection of links that I found while studying Operating S
 ## Video about Operating System Concepts
 * [Chapter 10](https://youtu.be/mduWNA6_BU8)
   Talking about the virtual memory slides.
+* [Part 2: Process Management](https://youtu.be/OrM7nZcxXZU)
+  Neso Academy playlist
 
 ## Fun stuff / Other Links
 * [Kitten Rice Bath](https://youtu.be/Q9iWKabmkr4)
