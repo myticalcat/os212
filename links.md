@@ -30,8 +30,12 @@ Here you can find my collection of links that I found while studying Operating S
 ## Video about Operating System Concepts
 * [Chapter 10](https://youtu.be/mduWNA6_BU8)
   Talking about the virtual memory slides.
-* [Part 2: Process Management](https://youtu.be/OrM7nZcxXZU)
+* [Process Management](https://youtu.be/OrM7nZcxXZU)
   Neso Academy playlist
+* [Process Synchronization](https://youtu.be/ph2awKa8r5Y)
+  Process Synchronization video with Cooperating Processes, Brief recap of Shared Memory Systems and Producer-Consumer Problem, and Race Condition
+* [Deadlock concept](https://youtu.be/rWFH6PLOIEI)
+  Deadlock concept youtube video
 
 ## Fun stuff / Other Links
 * [Kitten Rice Bath](https://youtu.be/Q9iWKabmkr4)
