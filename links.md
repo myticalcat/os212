@@ -37,6 +37,12 @@ Here you can find my collection of links that I found while studying Operating S
 * [Deadlock concept](https://youtu.be/rWFH6PLOIEI)
   Deadlock concept youtube video
 
+## LFS Stuff
+* [LFS Website](https://www.linuxfromscratch.org/lfs/view/11.0/)
+  Currently on chapter 6
+* [LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)
+  LFS on an old Apple iMac
+
 ## Fun stuff / Other Links
 * [Kitten Rice Bath](https://youtu.be/Q9iWKabmkr4)
     The dislike is from those who thought it was about cooking kitten. I watched this one in the middle of GSGS, the thumbnail is something else.
