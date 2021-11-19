@@ -26,6 +26,12 @@ Here you can find my collection of links that I found while studying Operating S
   The other link is for C programming in general, but this one focuses on the pointer.
 * [Bug Bounty Roadmap](https://cdn.hashnode.com/res/hashnode/image/upload/v1610889439172/wAmw3SEGa.jpeg?auto=compress)
   We might want to do some cybersec action but don't know where to start. This roadmap will at least give you a little bit of insight into it.
+* [Automation script](https://youtu.be/PPQ8m8xQAs8) 
+  I did this for SDA
+* [What is RAID?](https://youtu.be/GQO1llEFCs8)
+  popular explaination.
+* [Raid 0, 1, 10](https://youtu.be/eE7Bfw9lFfs) [ 6, 7](https://youtu.be/1P8ZecG9iOI)
+  techquickie explaination.
 
 ## Video about Operating System Concepts
 * [Chapter 10](https://youtu.be/mduWNA6_BU8)

@@ -115,3 +115,15 @@ ZCZC W08 120 L25 Scripting bash for TP's reason
 ZCZC W08  60 L24 Relearning bash and regex
 ZCZC W08  30 L83 Playing with my cat
 ZCZC W08  45 L83 Changing fish water
+ZCZC W09 120 L02 Zoom class
+ZCZC W09  50 L11 Reading
+ZCZC W09  60 L12 Demos
+ZCZC W09 180 L13 Prev Problem
+ZCZC W09  60 L14 LFS ch 6 done
+ZCZC W09  30 L15 Updating Bookmark
+ZCZC W09  50 L16 Finally adding tips
+ZCZC W09  30 L17 Peer reviews
+ZCZC W09  15 L18 Updating log
+ZCZC W09   5 L19 Submitting assignment after this one
+ZCZC W09  60 L24 Doing stuff for personal grader
+ZCZC W09 120 L26 Trying some C stuff also for personal grader

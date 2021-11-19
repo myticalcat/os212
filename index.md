@@ -8,6 +8,7 @@ In the meantime, you can visit my collection of links for this course and my log
 
 ### Available Pages  
 * [Links](links.md)
+* [Tips](tips.md)
 * [Logs](TXT/mylog.txt)
 * [TOP 10 GITHUB PAGES](TXT/myrank.txt) 
 * [My GitHub](https://github.com/myticalcat)
